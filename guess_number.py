@@ -12,4 +12,5 @@ while True:
     elif users_try == number:
         break
 
+print('В точку!')
 print('Отличная интуиция! Вы угадали число :)')
